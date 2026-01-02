@@ -17,10 +17,8 @@ class Solution {
       
         for (int i = 0; i < c0; i++)
             arr[idx++] = 0;
-
         for (int i = 0; i < c1; i++)
             arr[idx++] = 1;
-
         for (int i = 0; i < c2; i++)
             arr[idx++] = 2;
     }
